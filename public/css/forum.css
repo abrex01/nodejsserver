@@ -1,0 +1,11 @@
+#main {
+    border: 1px solid black;
+    width: 1200px;
+    position: absolute;
+    left: 5%;
+    text-align: center;
+    height: 600px
+}
+body {
+    background-color: rgb(170, 170, 170);
+}

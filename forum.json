@@ -1,0 +1,8 @@
+{
+    "forum": {
+        "posts": [
+            {"author": "heseneli", "content": "First post!", "answers":[]}
+        ],
+        "url": "/forum"
+    }
+}
